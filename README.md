@@ -3,7 +3,7 @@ Assignments/Labs from CSCI-2400
 =================================================================================================================================
 This is a semester's worth of assignments completed in CU Boulder's Computer Systems class (CSCI 2400). 
 
-I recieved full marks on all of these assignments- so they should be operable for full completion given that you understand the material/ are able to explain it.
+  I recieved full marks on all of these assignments- so they should be operable for full completion given that you understand the material/ are able to explain it.
 -----
   The Bomb Lab, however, is individual to the user and every distribution will be different per user.
 
